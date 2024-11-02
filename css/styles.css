@@ -1,0 +1,16 @@
+.navbar-img img {
+    padding-left: 5vw;
+    height: 100%;
+}
+.column_left {
+    border-radius: 15px 30px 5px 30px;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+}
+.column_right {
+    border-radius: 30px 15px 30px 5px;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+}
